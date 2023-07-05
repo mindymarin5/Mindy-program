@@ -1,2 +1,1 @@
-# Mindy-program
-Este es un repositorio de pruebas del Pre curso de Henry
+Este es un proyecto de prueba para crear repositorio y como clonarlo desde github a mi computadora 
